@@ -1,0 +1,992 @@
+Koala,is active at dawn and dusk,1
+Koala,live on land,1
+Koala,eat plants,1
+Koala,eat fruits,1
+Koala,eat leaves,1
+Koala,crawl on the  ground,1
+Koala,is active during the night,1
+Koala,prefer to live in groups,1
+Koala,live in trees,1
+Koala,walk on the ground,1
+Heron,is active at dawn and dusk,1
+Heron,hunt other animals,1
+Heron,eat fruits,1
+Heron,is active during the day,1
+Heron,lays eggs,1
+Heron,fly in the sky,1
+Heron,crawl on the  ground,1
+Heron,is active during the night,1
+Heron,prefer to live in groups,1
+Heron,eat meats,1
+Heron,hunt insects,1
+Heron,eat both plants and animals,1
+Heron,walk on the ground,1
+Boar,is active at dawn and dusk,1
+Boar,live on land,1
+Boar,hunt other animals,1
+Boar,prefer to live in groups,1
+Boar,eat meats,1
+Boar,eat both plants and animals,1
+Boar,walk on the ground,1
+Kiwi,is active at dawn and dusk,1
+Kiwi,live on land,1
+Kiwi,eat plants,1
+Kiwi,eat fruits,1
+Kiwi,eat leaves,1
+Kiwi,lays eggs,1
+Kiwi,crawl on the  ground,1
+Kiwi,is active during the night,1
+Kiwi,hunt insects,1
+Kiwi,eat both plants and animals,1
+Kiwi,walk on the ground,1
+Blackbird,is active at dawn and dusk,1
+Blackbird,eat leaves,1
+Blackbird,is active during the day,1
+Blackbird,lays eggs,1
+Blackbird,fly in the sky,1
+Blackbird,crawl on the  ground,1
+Blackbird,is active during the night,1
+Blackbird,prefer to live in groups,1
+Blackbird,hunt insects,1
+Blackbird,eat both plants and animals,1
+Blackbird,live in trees,1
+Blackbird,walk on the ground,1
+Fish,is active at dawn and dusk,1
+Fish,live in sea,1
+Fish,eat plants,1
+Fish,swim in the water,1
+Fish,is active during the day,1
+Fish,lays eggs,1
+Fish,live in water,1
+Fish,is active during the night,1
+Fish,prefer to live in groups,1
+Fish,eat meats,1
+Fish,hunt insects,1
+Fish,eat both plants and animals,1
+Porpoise,is active at dawn and dusk,1
+Porpoise,live in sea,1
+Porpoise,swim in the water,1
+Porpoise,is active during the day,1
+Porpoise,live in water,1
+Porpoise,prefer to live in groups,1
+Ocelot,is active at dawn and dusk,1
+Ocelot,live on land,1
+Ocelot,hunt other animals,1
+Ocelot,is active during the day,1
+Ocelot,crawl on the  ground,1
+Ocelot,is active during the night,1
+Ocelot,prefer to live in groups,1
+Ocelot,eat meats,1
+Ocelot,eat both plants and animals,1
+Ocelot,walk on the ground,1
+Crayfish,is active at dawn and dusk,1
+Crayfish,swim in the water,1
+Crayfish,is active during the day,1
+Crayfish,lays eggs,1
+Crayfish,live in water,1
+Crayfish,crawl on the  ground,1
+Crayfish,is active during the night,1
+Crayfish,prefer to live in groups,1
+Crayfish,eat both plants and animals,1
+Crayfish,walk on the ground,1
+Shrimp,is active at dawn and dusk,1
+Shrimp,live in sea,1
+Shrimp,swim in the water,1
+Shrimp,lays eggs,1
+Shrimp,live in water,1
+Shrimp,crawl on the  ground,1
+Shrimp,is active during the night,1
+Shrimp,prefer to live in groups,1
+Shrimp,eat meats,1
+Shrimp,hunt insects,1
+Shrimp,eat both plants and animals,1
+Wombat,is active at dawn and dusk,1
+Wombat,live on land,1
+Wombat,live in underground,1
+Wombat,eat plants,1
+Wombat,eat leaves,1
+Wombat,crawl on the  ground,1
+Wombat,is active during the night,1
+Wombat,prefer to live in groups,1
+Wombat,hunt insects,1
+Wombat,eat both plants and animals,1
+Wombat,walk on the ground,1
+Wombat,eat grasses,1
+Yak,is active at dawn and dusk,1
+Yak,live on land,1
+Yak,eat plants,1
+Yak,is active during the day,1
+Yak,crawl on the  ground,1
+Yak,prefer to live in groups,1
+Yak,walk on the ground,1
+Yak,eat grasses,1
+Mollusk,live in rainforest,1
+Mollusk,live in sea,1
+Mollusk,swim in the water,1
+Mollusk,is active during the day,1
+Mollusk,lays eggs,1
+Mollusk,live in water,1
+Mollusk,crawl on the  ground,1
+Mollusk,is active during the night,1
+Mollusk,prefer to live in groups,1
+Mollusk,hunt insects,1
+Mollusk,eat both plants and animals,1
+Scallop,is active at dawn and dusk,1
+Scallop,live in sea,1
+Scallop,swim in the water,1
+Scallop,is active during the day,1
+Scallop,lays eggs,1
+Scallop,live in water,1
+Scallop,prefer to live in groups,1
+Puma,is active at dawn and dusk,1
+Puma,live on land,1
+Puma,hunt other animals,1
+Puma,is active during the day,1
+Puma,lays eggs,1
+Puma,crawl on the  ground,1
+Puma,is active during the night,1
+Puma,prefer to live in groups,1
+Puma,eat meats,1
+Puma,hunt insects,1
+Puma,eat both plants and animals,1
+Puma,walk on the ground,1
+Mink,is active at dawn and dusk,1
+Mink,live on land,1
+Mink,hunt other animals,1
+Mink,eat leaves,1
+Mink,crawl on the  ground,1
+Mink,is active during the night,1
+Mink,prefer to live in groups,1
+Mink,eat both plants and animals,1
+Mink,walk on the ground,1
+Mink,eat grasses,1
+Hummingbird,live in rainforest,1
+Hummingbird,is active at dawn and dusk,1
+Hummingbird,eat fruits,1
+Hummingbird,is active during the day,1
+Hummingbird,lays eggs,1
+Hummingbird,fly in the sky,1
+Hummingbird,hunt insects,1
+Hummingbird,live in trees,1
+Shark,is active at dawn and dusk,1
+Shark,hunt other animals,1
+Shark,live in sea,1
+Shark,swim in the water,1
+Shark,live in water,1
+Shark,is active during the night,1
+Shark,eat meats,1
+Dingo,live in desert,1
+Dingo,is active at dawn and dusk,1
+Dingo,live on land,1
+Dingo,hunt other animals,1
+Dingo,is active during the day,1
+Dingo,crawl on the  ground,1
+Dingo,is active during the night,1
+Dingo,prefer to live in groups,1
+Dingo,eat meats,1
+Dingo,hunt insects,1
+Dingo,walk on the ground,1
+Lungfish,is active at dawn and dusk,1
+Lungfish,swim in the water,1
+Lungfish,is active during the day,1
+Lungfish,lays eggs,1
+Lungfish,live in water,1
+Lungfish,crawl on the  ground,1
+Lungfish,eat both plants and animals,1
+Hoverfly,is active at dawn and dusk,1
+Hoverfly,is active during the day,1
+Hoverfly,lays eggs,1
+Hoverfly,crawl on the  ground,1
+Hoverfly,walk on the ground,1
+Louse,is active at dawn and dusk,1
+Louse,eat leaves,1
+Louse,is active during the day,1
+Louse,lays eggs,1
+Louse,fly in the sky,1
+Louse,crawl on the  ground,1
+Louse,prefer to live alone,1
+Louse,prefer to live in groups,1
+Louse,hunt insects,1
+Louse,eat both plants and animals,1
+Louse,walk on the ground,1
+Wasp,live in rainforest,1
+Wasp,is active at dawn and dusk,1
+Wasp,is active during the day,1
+Wasp,lays eggs,1
+Wasp,fly in the sky,1
+Wasp,crawl on the  ground,1
+Wasp,hunt insects,1
+Catshark,is active at dawn and dusk,1
+Catshark,hunt other animals,1
+Catshark,live in sea,1
+Catshark,swim in the water,1
+Catshark,lays eggs,1
+Catshark,live in water,1
+Catshark,is active during the night,1
+Catshark,eat meats,1
+Ape,live in rainforest,1
+Ape,is active at dawn and dusk,1
+Ape,live on land,1
+Ape,eat plants,1
+Ape,is active during the day,1
+Ape,crawl on the  ground,1
+Ape,prefer to live in groups,1
+Ape,hunt insects,1
+Ape,eat both plants and animals,1
+Ape,live in trees,1
+Ape,walk on the ground,1
+Sloth,live in rainforest,1
+Sloth,is active at dawn and dusk,1
+Sloth,live on land,1
+Sloth,eat plants,1
+Sloth,eat fruits,1
+Sloth,eat leaves,1
+Sloth,crawl on the  ground,1
+Sloth,is active during the night,1
+Sloth,hunt insects,1
+Sloth,live in trees,1
+Armadillo,is active at dawn and dusk,1
+Armadillo,live on land,1
+Armadillo,live in underground,1
+Armadillo,eat plants,1
+Armadillo,is active during the day,1
+Armadillo,crawl on the  ground,1
+Armadillo,is active during the night,1
+Armadillo,hunt insects,1
+Armadillo,eat both plants and animals,1
+Armadillo,walk on the ground,1
+Flea,live in rainforest,1
+Flea,is active at dawn and dusk,1
+Flea,swim in the water,1
+Flea,crawl on the  ground,1
+Flea,prefer to live alone,1
+Flea,is active during the night,1
+Flea,eat meats,1
+Flea,hunt insects,1
+Flea,eat both plants and animals,1
+Gamefowl,is active at dawn and dusk,1
+Gamefowl,live on land,1
+Gamefowl,is active during the day,1
+Gamefowl,lays eggs,1
+Gamefowl,prefer to live in groups,1
+Gamefowl,eat both plants and animals,1
+Gamefowl,walk on the ground,1
+Goldfish,is active at dawn and dusk,1
+Goldfish,swim in the water,1
+Goldfish,is active during the day,1
+Goldfish,lays eggs,1
+Goldfish,live in water,1
+Goldfish,prefer to live in groups,1
+Goldfish,eat both plants and animals,1
+Chinchilla,is active at dawn and dusk,1
+Chinchilla,live on land,1
+Chinchilla,eat fruits,1
+Chinchilla,crawl on the  ground,1
+Chinchilla,is active during the night,1
+Chinchilla,prefer to live in groups,1
+Chinchilla,walk on the ground,1
+Silverfish,is active at dawn and dusk,1
+Silverfish,live on land,1
+Silverfish,live in underground,1
+Silverfish,lays eggs,1
+Silverfish,crawl on the  ground,1
+Silverfish,is active during the night,1
+Silverfish,prefer to live in groups,1
+Silverfish,hunt insects,1
+Silverfish,walk on the ground,1
+Earwig,live on land,1
+Earwig,live in underground,1
+Earwig,hunt other animals,1
+Earwig,lays eggs,1
+Earwig,crawl on the  ground,1
+Earwig,is active during the night,1
+Earwig,eat meats,1
+Earwig,hunt insects,1
+Earwig,walk on the ground,1
+Peacock,is active at dawn and dusk,1
+Peacock,eat leaves,1
+Peacock,lays eggs,1
+Peacock,prefer to live in groups,1
+Peacock,hunt insects,1
+Peacock,walk on the ground,1
+Aphid,is active at dawn and dusk,1
+Aphid,live on land,1
+Aphid,eat plants,1
+Aphid,eat fruits,1
+Aphid,eat leaves,1
+Aphid,is active during the day,1
+Aphid,lays eggs,1
+Aphid,crawl on the  ground,1
+Aphid,prefer to live in groups,1
+Aphid,live in trees,1
+Aphid,walk on the ground,1
+Prawn,live in rainforest,1
+Prawn,is active at dawn and dusk,1
+Prawn,eat fruits,1
+Prawn,swim in the water,1
+Prawn,is active during the day,1
+Prawn,live in water,1
+Prawn,crawl on the  ground,1
+Prawn,hunt insects,1
+Prawn,walk on the ground,1
+Skunk,is active at dawn and dusk,1
+Skunk,live on land,1
+Skunk,hunt other animals,1
+Skunk,crawl on the  ground,1
+Skunk,is active during the night,1
+Skunk,hunt insects,1
+Skunk,walk on the ground,1
+Rabbit,is active at dawn and dusk,1
+Rabbit,live on land,1
+Rabbit,live in underground,1
+Rabbit,eat plants,1
+Rabbit,eat fruits,1
+Rabbit,is active during the day,1
+Rabbit,is active during the night,1
+Rabbit,prefer to live in groups,1
+Rabbit,eat both plants and animals,1
+Rabbit,walk on the ground,1
+Stingray,is active at dawn and dusk,1
+Stingray,live in sea,1
+Stingray,swim in the water,1
+Stingray,live in water,1
+Stingray,crawl on the  ground,1
+Antelope,live in desert,1
+Antelope,is active at dawn and dusk,1
+Antelope,live on land,1
+Antelope,eat plants,1
+Antelope,is active during the day,1
+Antelope,crawl on the  ground,1
+Antelope,prefer to live in groups,1
+Antelope,eat both plants and animals,1
+Antelope,walk on the ground,1
+Antelope,eat grasses,1
+Bandicoot,live in desert,1
+Bandicoot,is active at dawn and dusk,1
+Bandicoot,live on land,1
+Bandicoot,hunt other animals,1
+Bandicoot,eat fruits,1
+Bandicoot,is active during the day,1
+Bandicoot,crawl on the  ground,1
+Bandicoot,is active during the night,1
+Bandicoot,prefer to live in groups,1
+Bandicoot,eat meats,1
+Bandicoot,hunt insects,1
+Bandicoot,eat both plants and animals,1
+Bandicoot,walk on the ground,1
+Bobolink,is active at dawn and dusk,1
+Bobolink,live on land,1
+Bobolink,is active during the day,1
+Bobolink,lays eggs,1
+Bobolink,fly in the sky,1
+Bobolink,hunt insects,1
+Bobolink,eat both plants and animals,1
+Beetle,live in desert,1
+Beetle,is active at dawn and dusk,1
+Beetle,live on land,1
+Beetle,eat leaves,1
+Beetle,is active during the day,1
+Beetle,lays eggs,1
+Beetle,crawl on the  ground,1
+Beetle,is active during the night,1
+Beetle,prefer to live in groups,1
+Beetle,hunt insects,1
+Beetle,eat both plants and animals,1
+Beetle,walk on the ground,1
+Rooster,is active at dawn and dusk,1
+Rooster,live on land,1
+Rooster,is active during the day,1
+Rooster,prefer to live in groups,1
+Rooster,eat meats,1
+Rooster,hunt insects,1
+Rooster,walk on the ground,1
+Wildebeest,is active at dawn and dusk,1
+Wildebeest,live on land,1
+Wildebeest,eat plants,1
+Wildebeest,swim in the water,1
+Wildebeest,is active during the day,1
+Wildebeest,is active during the night,1
+Wildebeest,prefer to live in groups,1
+Wildebeest,walk on the ground,1
+Wildebeest,eat grasses,1
+Giraffe,is active at dawn and dusk,1
+Giraffe,live on land,1
+Giraffe,eat plants,1
+Giraffe,eat leaves,1
+Giraffe,is active during the day,1
+Giraffe,crawl on the  ground,1
+Giraffe,prefer to live in groups,1
+Giraffe,walk on the ground,1
+Giraffe,eat grasses,1
+Bison,is active at dawn and dusk,1
+Bison,live on land,1
+Bison,eat plants,1
+Bison,eat leaves,1
+Bison,crawl on the  ground,1
+Bison,prefer to live in groups,1
+Bison,eat both plants and animals,1
+Bison,walk on the ground,1
+Bison,eat grasses,1
+Lark,is active at dawn and dusk,1
+Lark,live on land,1
+Lark,hunt other animals,1
+Lark,eat plants,1
+Lark,eat fruits,1
+Lark,eat leaves,1
+Lark,swim in the water,1
+Lark,is active during the day,1
+Lark,lays eggs,1
+Lark,fly in the sky,1
+Lark,crawl on the  ground,1
+Lark,is active during the night,1
+Lark,prefer to live in groups,1
+Lark,hunt insects,1
+Lark,eat both plants and animals,1
+Lark,walk on the ground,1
+Lark,eat grasses,1
+Finch,is active at dawn and dusk,1
+Finch,live on land,1
+Finch,eat fruits,1
+Finch,eat leaves,1
+Finch,is active during the day,1
+Finch,lays eggs,1
+Finch,fly in the sky,1
+Finch,crawl on the  ground,1
+Finch,prefer to live in groups,1
+Finch,walk on the ground,1
+Mule,is active at dawn and dusk,1
+Mule,live on land,1
+Mule,is active during the day,1
+Mule,lays eggs,1
+Mule,crawl on the  ground,1
+Mule,is active during the night,1
+Mule,prefer to live in groups,1
+Mule,hunt insects,1
+Mule,eat both plants and animals,1
+Mule,walk on the ground,1
+Mule,eat grasses,1
+Lemming,is active at dawn and dusk,1
+Lemming,live on land,1
+Lemming,live in underground,1
+Lemming,swim in the water,1
+Lemming,crawl on the  ground,1
+Lemming,prefer to live in groups,1
+Lemming,walk on the ground,1
+Lizard,live in rainforest,1
+Lizard,is active at dawn and dusk,1
+Lizard,live on land,1
+Lizard,hunt other animals,1
+Lizard,is active during the day,1
+Lizard,lays eggs,1
+Lizard,crawl on the  ground,1
+Lizard,is active during the night,1
+Lizard,prefer to live in groups,1
+Lizard,hunt insects,1
+Lizard,walk on the ground,1
+Guppy,is active at dawn and dusk,1
+Guppy,live in sea,1
+Guppy,eat plants,1
+Guppy,swim in the water,1
+Guppy,live in water,1
+Guppy,crawl on the  ground,1
+Guppy,prefer to live in groups,1
+Guppy,hunt insects,1
+Guppy,eat both plants and animals,1
+Guppy,walk on the ground,1
+Kingfisher,live in rainforest,1
+Kingfisher,is active at dawn and dusk,1
+Kingfisher,hunt other animals,1
+Kingfisher,eat fruits,1
+Kingfisher,is active during the day,1
+Kingfisher,lays eggs,1
+Kingfisher,live in water,1
+Kingfisher,fly in the sky,1
+Kingfisher,crawl on the  ground,1
+Kingfisher,prefer to live in groups,1
+Kingfisher,hunt insects,1
+Kingfisher,eat both plants and animals,1
+Hamster,is active at dawn and dusk,1
+Hamster,live on land,1
+Hamster,live in underground,1
+Hamster,eat plants,1
+Hamster,eat fruits,1
+Hamster,is active during the day,1
+Hamster,crawl on the  ground,1
+Hamster,prefer to live alone,1
+Hamster,is active during the night,1
+Hamster,prefer to live in groups,1
+Hamster,eat both plants and animals,1
+Hamster,walk on the ground,1
+Ladybug,is active at dawn and dusk,1
+Ladybug,live on land,1
+Ladybug,eat leaves,1
+Ladybug,is active during the day,1
+Ladybug,lays eggs,1
+Ladybug,fly in the sky,1
+Ladybug,crawl on the  ground,1
+Ladybug,hunt insects,1
+Ladybug,eat both plants and animals,1
+Ladybug,walk on the ground,1
+Swordtail,is active at dawn and dusk,1
+Swordtail,eat plants,1
+Swordtail,swim in the water,1
+Swordtail,is active during the day,1
+Swordtail,lays eggs,1
+Swordtail,live in water,1
+Swordtail,prefer to live in groups,1
+Swordtail,hunt insects,1
+Swordtail,eat both plants and animals,1
+Aardvark,is active at dawn and dusk,1
+Aardvark,live on land,1
+Aardvark,live in underground,1
+Aardvark,hunt other animals,1
+Aardvark,eat fruits,1
+Aardvark,crawl on the  ground,1
+Aardvark,is active during the night,1
+Aardvark,prefer to live in groups,1
+Aardvark,hunt insects,1
+Aardvark,walk on the ground,1
+Donkey,live in desert,1
+Donkey,is active at dawn and dusk,1
+Donkey,live on land,1
+Donkey,eat plants,1
+Donkey,eat fruits,1
+Donkey,eat leaves,1
+Donkey,is active during the day,1
+Donkey,is active during the night,1
+Donkey,prefer to live in groups,1
+Donkey,eat both plants and animals,1
+Donkey,walk on the ground,1
+Donkey,eat grasses,1
+Manatee,is active at dawn and dusk,1
+Manatee,live in sea,1
+Manatee,eat plants,1
+Manatee,swim in the water,1
+Manatee,is active during the day,1
+Manatee,live in water,1
+Manatee,crawl on the  ground,1
+Manatee,prefer to live in groups,1
+Manatee,eat both plants and animals,1
+Manatee,eat grasses,1
+Roadrunner,live in desert,1
+Roadrunner,is active at dawn and dusk,1
+Roadrunner,live on land,1
+Roadrunner,hunt other animals,1
+Roadrunner,is active during the day,1
+Roadrunner,lays eggs,1
+Roadrunner,crawl on the  ground,1
+Roadrunner,prefer to live alone,1
+Roadrunner,prefer to live in groups,1
+Roadrunner,hunt insects,1
+Egret,live in rainforest,1
+Egret,is active at dawn and dusk,1
+Egret,live on land,1
+Egret,hunt other animals,1
+Egret,eat leaves,1
+Egret,swim in the water,1
+Egret,is active during the day,1
+Egret,lays eggs,1
+Egret,fly in the sky,1
+Egret,is active during the night,1
+Egret,prefer to live in groups,1
+Egret,hunt insects,1
+Egret,live in trees,1
+Egret,walk on the ground,1
+Woodpecker,is active at dawn and dusk,1
+Woodpecker,live on land,1
+Woodpecker,lays eggs,1
+Woodpecker,hunt insects,1
+Woodpecker,live in trees,1
+Rodent,is active at dawn and dusk,1
+Rodent,live on land,1
+Rodent,live in underground,1
+Rodent,crawl on the  ground,1
+Rodent,is active during the night,1
+Rodent,prefer to live in groups,1
+Rodent,hunt insects,1
+Rodent,eat both plants and animals,1
+Rodent,walk on the ground,1
+Anglerfish,hunt other animals,1
+Anglerfish,live in sea,1
+Anglerfish,swim in the water,1
+Anglerfish,lays eggs,1
+Anglerfish,live in water,1
+Anglerfish,is active during the night,1
+Anglerfish,eat meats,1
+Octopus,is active at dawn and dusk,1
+Octopus,live in sea,1
+Octopus,swim in the water,1
+Octopus,lays eggs,1
+Octopus,live in water,1
+Octopus,crawl on the  ground,1
+Octopus,is active during the night,1
+Octopus,prefer to live in groups,1
+Octopus,eat both plants and animals,1
+Haddock,is active at dawn and dusk,1
+Haddock,live in sea,1
+Haddock,eat plants,1
+Haddock,eat leaves,1
+Haddock,swim in the water,1
+Haddock,is active during the day,1
+Haddock,lays eggs,1
+Haddock,live in water,1
+Haddock,crawl on the  ground,1
+Haddock,prefer to live in groups,1
+Haddock,eat both plants and animals,1
+Haddock,walk on the ground,1
+Tiger,is active at dawn and dusk,1
+Tiger,live on land,1
+Tiger,hunt other animals,1
+Tiger,walk on the ground,1
+Tiger,eat meats,1
+Tiger,is active at dawn and dusk,1
+Tiger,live on land,1
+Tiger,hunt other animals,1
+Tiger,crawl on the  ground,1
+Tiger,eat both plants and animals,1
+Tiger,prefer to live in groups,1
+Tiglon,eat meats,1
+Tiglon,is active at dawn and dusk,1
+Tiglon,hunt other animals,1
+Tiglon,crawl on the  ground,1
+Tiglon,eat both plants and animals,1
+Tiglon,is active during the day,1
+Tiglon,is active during the night,1
+Tiglon,prefer to live in groups,1
+Tiglon,hunt insects,1
+Toad,walk on the ground,1
+Toad,is active at dawn and dusk,1
+Toad,live on land,1
+Toad,lays eggs,1
+Toad,live in underground,1
+Toad,swim in the water,1
+Toad,crawl on the  ground,1
+Toad,is active during the night,1
+Toad,prefer to live in groups,1
+Toad,hunt insects,1
+Tortoise,walk on the ground,1
+Tortoise,is active at dawn and dusk,1
+Tortoise,live on land,1
+Tortoise,eat grasses,1
+Tortoise,lays eggs,1
+Tortoise,eat leaves,1
+Tortoise,swim in the water,1
+Tortoise,crawl on the  ground,1
+Tortoise,eat fruits,1
+Tortoise,eat plants,1
+Tortoise,eat both plants and animals,1
+Tortoise,prefer to live in groups,1
+Tortoise,hunt insects,1
+Toucan,walk on the ground,1
+Toucan,lays eggs,1
+Toucan,eat leaves,1
+Toucan,crawl on the  ground,1
+Toucan,fly in the sky,1
+Toucan,eat fruits,1
+Toucan,eat plants,1
+Toucan,is active during the day,1
+Toucan,prefer to live in groups,1
+Toucan,hunt insects,1
+Toucan,live in trees,1
+Toucan,live in rainforest,1
+Trout,is active at dawn and dusk,1
+Trout,lays eggs,1
+Trout,swim in the water,1
+Trout,is active during the day,1
+Trout,live in water,1
+Trout,prefer to live in groups,1
+Trout,hunt insects,1
+Tuna,eat meats,1
+Tuna,is active at dawn and dusk,1
+Tuna,swim in the water,1
+Tuna,crawl on the  ground,1
+Tuna,live in sea,1
+Tuna,live in water,1
+Tuna,prefer to live in groups,1
+Turkey,walk on the ground,1
+Turkey,eat meats,1
+Turkey,is active at dawn and dusk,1
+Turkey,live on land,1
+Turkey,hunt other animals,1
+Turkey,eat fruits,1
+Turkey,eat plants,1
+Turkey,eat both plants and animals,1
+Turkey,is active during the day,1
+Turkey,is active during the night,1
+Turkey,prefer to live in groups,1
+Turkey,hunt insects,1
+Turtle,walk on the ground,1
+Turtle,is active at dawn and dusk,1
+Turtle,live on land,1
+Turtle,lays eggs,1
+Turtle,live in underground,1
+Turtle,swim in the water,1
+Turtle,crawl on the  ground,1
+Turtle,eat fruits,1
+Turtle,live in sea,1
+Turtle,eat plants,1
+Turtle,eat both plants and animals,1
+Turtle,is active during the day,1
+Turtle,live in water,1
+Turtle,hunt insects,1
+Turtle,live in rainforest,1
+Tyrannosaurus,walk on the ground,1
+Tyrannosaurus,eat meats,1
+Tyrannosaurus,live on land,1
+Tyrannosaurus,lays eggs,1
+Tyrannosaurus,hunt other animals,1
+Tyrannosaurus,prefer to live in groups,1
+Urial,eat meats,1
+Urial,is active at dawn and dusk,1
+Urial,live on land,1
+Urial,eat grasses,1
+Urial,eat leaves,1
+Urial,hunt other animals,1
+Urial,crawl on the  ground,1
+Urial,eat fruits,1
+Urial,eat plants,1
+Urial,eat both plants and animals,1
+Urial,hunt insects,1
+Vicuna,walk on the ground,1
+Vicuna,is active at dawn and dusk,1
+Vicuna,live on land,1
+Vicuna,eat grasses,1
+Vicuna,eat leaves,1
+Vicuna,crawl on the  ground,1
+Vicuna,eat fruits,1
+Vicuna,eat plants,1
+Vicuna,is active during the day,1
+Vicuna,prefer to live in groups,1
+Vicuna,hunt insects,1
+Viper,is active at dawn and dusk,1
+Viper,hunt other animals,1
+Viper,crawl on the  ground,1
+Viper,eat both plants and animals,1
+Viper,is active during the day,1
+Viper,is active during the night,1
+Viper,live in rainforest,1
+Vole,walk on the ground,1
+Vole,is active at dawn and dusk,1
+Vole,live on land,1
+Vole,eat grasses,1
+Vole,live in underground,1
+Vole,eat leaves,1
+Vole,hunt other animals,1
+Vole,crawl on the  ground,1
+Vole,eat fruits,1
+Vole,eat both plants and animals,1
+Vole,is active during the day,1
+Vole,is active during the night,1
+Vole,prefer to live in groups,1
+Vole,hunt insects,1
+Vulture,walk on the ground,1
+Vulture,live in desert,1
+Vulture,eat meats,1
+Vulture,is active at dawn and dusk,1
+Vulture,live on land,1
+Vulture,lays eggs,1
+Vulture,hunt other animals,1
+Vulture,crawl on the  ground,1
+Vulture,fly in the sky,1
+Vulture,eat both plants and animals,1
+Vulture,is active during the night,1
+Vulture,prefer to live in groups,1
+Vulture,live in trees,1
+Wallaby,walk on the ground,1
+Wallaby,eat meats,1
+Wallaby,is active at dawn and dusk,1
+Wallaby,live on land,1
+Wallaby,eat grasses,1
+Wallaby,lays eggs,1
+Wallaby,eat leaves,1
+Wallaby,crawl on the  ground,1
+Wallaby,eat fruits,1
+Wallaby,eat both plants and animals,1
+Wallaby,is active during the day,1
+Wallaby,hunt insects,1
+Walrus,walk on the ground,1
+Walrus,is active at dawn and dusk,1
+Walrus,live on land,1
+Walrus,swim in the water,1
+Walrus,crawl on the  ground,1
+Walrus,eat both plants and animals,1
+Walrus,prefer to live in groups,1
+Warbler,eat meats,1
+Warbler,is active at dawn and dusk,1
+Warbler,live on land,1
+Warbler,lays eggs,1
+Warbler,eat leaves,1
+Warbler,crawl on the  ground,1
+Warbler,fly in the sky,1
+Warbler,eat fruits,1
+Warbler,is active during the day,1
+Warbler,prefer to live in groups,1
+Warbler,hunt insects,1
+Warbler,live in trees,1
+Warbler,live in rainforest,1
+Wasp,walk on the ground,1
+Wasp,is active at dawn and dusk,1
+Wasp,live on land,1
+Wasp,lays eggs,1
+Wasp,hunt other animals,1
+Wasp,crawl on the  ground,1
+Wasp,fly in the sky,1
+Wasp,eat fruits,1
+Wasp,is active during the day,1
+Wasp,is active during the night,1
+Wasp,hunt insects,1
+Wasp,live in rainforest,1
+Weasel,eat meats,1
+Weasel,is active at dawn and dusk,1
+Weasel,live on land,1
+Weasel,hunt other animals,1
+Weasel,crawl on the  ground,1
+Weasel,eat both plants and animals,1
+Weasel,hunt insects,1
+Whale,is active at dawn and dusk,1
+Whale,swim in the water,1
+Whale,live in sea,1
+Whale,live in water,1
+Whale,prefer to live in groups,1
+Whippet,prefer to live alone,1
+Whippet,walk on the ground,1
+Whippet,eat meats,1
+Whippet,is active at dawn and dusk,1
+Whippet,live on land,1
+Whippet,hunt other animals,1
+Whippet,is active during the day,1
+Whippet,is active during the night,1
+Whippet,prefer to live in groups,1
+Whippet,hunt insects,1
+Whitefish,is active at dawn and dusk,1
+Whitefish,live on land,1
+Whitefish,hunt other animals,1
+Whitefish,crawl on the  ground,1
+Whitefish,eat both plants and animals,1
+Whitefish,is active during the day,1
+Whitefish,live in water,1
+Whitefish,prefer to live in groups,1
+Whitefish,hunt insects,1
+Wildcat,walk on the ground,1
+Wildcat,eat meats,1
+Wildcat,is active at dawn and dusk,1
+Wildcat,live on land,1
+Wildcat,hunt other animals,1
+Wildcat,crawl on the  ground,1
+Wildcat,eat fruits,1
+Wildcat,eat both plants and animals,1
+Wildcat,is active during the day,1
+Wildcat,prefer to live in groups,1
+Wildebeest,walk on the ground,1
+Wildebeest,is active at dawn and dusk,1
+Wildebeest,live on land,1
+Wildebeest,eat grasses,1
+Wildebeest,eat plants,1
+Wildebeest,is active during the day,1
+Wildebeest,prefer to live in groups,1
+Wildfowl,walk on the ground,1
+Wildfowl,is active at dawn and dusk,1
+Wildfowl,lays eggs,1
+Wildfowl,eat leaves,1
+Wildfowl,swim in the water,1
+Wildfowl,crawl on the  ground,1
+Wildfowl,fly in the sky,1
+Wildfowl,eat both plants and animals,1
+Wildfowl,is active during the day,1
+Wildfowl,live in water,1
+Wildfowl,prefer to live in groups,1
+Wildfowl,hunt insects,1
+Wolf,walk on the ground,1
+Wolf,eat meats,1
+Wolf,is active at dawn and dusk,1
+Wolf,live on land,1
+Wolf,hunt other animals,1
+Wolf,is active during the night,1
+Wolf,prefer to live in groups,1
+Wolverine,walk on the ground,1
+Wolverine,eat meats,1
+Wolverine,live on land,1
+Wolverine,live in underground,1
+Wolverine,crawl on the  ground,1
+Wolverine,eat both plants and animals,1
+Wolverine,is active during the night,1
+Wombat,walk on the ground,1
+Wombat,is active at dawn and dusk,1
+Wombat,live on land,1
+Wombat,eat grasses,1
+Wombat,lays eggs,1
+Wombat,live in underground,1
+Wombat,eat leaves,1
+Wombat,crawl on the  ground,1
+Wombat,eat plants,1
+Wombat,eat both plants and animals,1
+Wombat,is active during the night,1
+Wombat,prefer to live in groups,1
+Wombat,hunt insects,1
+Woodpecker,is active at dawn and dusk,1
+Woodpecker,live on land,1
+Woodpecker,lays eggs,1
+Woodpecker,fly in the sky,1
+Woodpecker,is active during the day,1
+Woodpecker,hunt insects,1
+Woodpecker,live in trees,1
+Worm,walk on the ground,1
+Worm,is active at dawn and dusk,1
+Worm,live on land,1
+Worm,eat grasses,1
+Worm,live in underground,1
+Worm,eat leaves,1
+Worm,crawl on the  ground,1
+Worm,eat both plants and animals,1
+Worm,hunt insects,1
+Wren,walk on the ground,1
+Wren,eat meats,1
+Wren,is active at dawn and dusk,1
+Wren,live on land,1
+Wren,lays eggs,1
+Wren,hunt other animals,1
+Wren,swim in the water,1
+Wren,crawl on the  ground,1
+Wren,fly in the sky,1
+Wren,eat fruits,1
+Wren,eat plants,1
+Wren,eat both plants and animals,1
+Wren,is active during the day,1
+Wren,is active during the night,1
+Wren,prefer to live in groups,1
+Wren,hunt insects,1
+Wren,live in trees,1
+Wren,live in rainforest,1
+Xerinae,walk on the ground,1
+Xerinae,eat meats,1
+Xerinae,is active at dawn and dusk,1
+Xerinae,lays eggs,1
+Xerinae,eat leaves,1
+Xerinae,hunt other animals,1
+Xerinae,swim in the water,1
+Xerinae,crawl on the  ground,1
+Xerinae,fly in the sky,1
+Xerinae,eat both plants and animals,1
+Xerinae,is active during the night,1
+Xerinae,prefer to live in groups,1
+Xerinae,hunt insects,1
+Xerinae,live in trees,1
+Yak,walk on the ground,1
+Yak,is active at dawn and dusk,1
+Yak,live on land,1
+Yak,eat grasses,1
+Yak,eat plants,1
+Yak,eat both plants and animals,1
+Yak,is active during the day,1
+Yak,prefer to live in groups,1
+Yak,hunt insects,1
+Zebra,walk on the ground,1
+Zebra,is active at dawn and dusk,1
+Zebra,live on land,1
+Zebra,eat grasses,1
+Zebra,eat leaves,1
+Zebra,crawl on the  ground,1
+Zebra,eat fruits,1
+Zebra,eat plants,1
+Zebra,is active during the day,1
+Zebra,prefer to live in groups,1

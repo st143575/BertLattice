@@ -1,0 +1,201 @@
+Japan	Japanese
+Norway	Sami
+Norway	Norwegian
+Republic of Ireland	English
+Spain	Spanish
+Belgium	French
+Belgium	German
+Belgium	Dutch
+Luxembourg	French
+Luxembourg	German
+Finland	Swedish
+Finland	Finnish
+Sweden	Swedish
+Denmark	Danish
+Poland	Polish
+Italy	Italian
+Switzerland	French
+Switzerland	German
+Switzerland	Italian
+Austria	German
+Greece	Greek
+Turkey	Turkish
+Portugal	Portuguese
+Uruguay	Spanish
+Mexico	Spanish
+Ghana	English
+Brazil	Portuguese
+Germany	German
+Iceland	Icelandic
+Estonia	Estonian
+Latvia	Latvian
+Ukraine	Ukrainian
+Czech Republic	Czech
+Slovakia	Slovak
+Slovenia	Slovene
+Romania	Romanian
+Bulgaria	Bulgarian
+Albania	Albanian
+Croatia	Croatian
+Bosnia and Herzegovina	Croatian
+Andorra	Catalan
+Cyprus	Greek
+Cyprus	Turkish
+Georgia	Georgian
+Kazakhstan	Russian
+Malta	English
+Monaco	French
+San Marino	Italian
+Cuba	Spanish
+Belize	English
+Barbados	English
+Indonesia	Indonesian
+South Africa	Afrikaans
+Algeria	Arabic
+Chile	Spanish
+Singapore	English
+Singapore	Tamil
+Singapore	Malay
+Liechtenstein	German
+Bahrain	Arabic
+Serbia	Serbian
+Australia	English
+Argentina	Spanish
+Peru	Spanish
+North Korea	Korean
+Cambodia	Khmer
+European Union	French
+European Union	English
+European Union	Finnish
+European Union	German
+European Union	Portuguese
+European Union	Swedish
+European Union	Dutch
+European Union	Italian
+European Union	Greek
+European Union	Spanish
+Timor Leste	Portuguese
+Chad	French
+Chad	Arabic
+New Zealand	English
+India	English
+India	Hindi
+Tuvalu	English
+Tonga	English
+Samoa	English
+Solomon Islands	English
+Vanuatu	French
+Vanuatu	English
+Papua New Guinea	English
+Palau	English
+Marshall Islands	English
+Kiribati	English
+Fiji	English
+Venezuela	Spanish
+Suriname	Dutch
+Paraguay	Spanish
+Guyana	English
+Ecuador	Spanish
+Colombia	Spanish
+Trinidad and Tobago	English
+Saint Vincent and the Grenadines	English
+Saint Lucia	English
+Saint Kitts and Nevis	English
+Jamaica	English
+Grenada	English
+Guatemala	Spanish
+The Bahamas	English
+Antigua and Barbuda	English
+Honduras	Spanish
+Dominica	English
+Dominican Republic	Spanish
+Haiti	French
+El Salvador	Spanish
+Iran	Persian
+Iraq	Arabic
+Yemen	Arabic
+Jordan	Arabic
+Nicaragua	Spanish
+Kyrgyzstan	Russian
+Kuwait	Arabic
+Lebanon	Arabic
+Myanmar	Burmese
+Nepal	Nepali
+Oman	Arabic
+Pakistan	English
+Pakistan	Urdu
+Qatar	Arabic
+Saudi Arabia	Arabic
+Sri Lanka	Tamil
+Syria	Arabic
+Tajikistan	Russian
+Thailand	Thai
+United Arab Emirates	Arabic
+Vietnam	Vietnamese
+South Korea	Korean
+Bangladesh	Bengali
+Mali	French
+Angola	Portuguese
+Brunei	Malay
+Tanzania	English
+Philippines	English
+Central African Republic	French
+Togo	French
+Tunisia	Arabic
+Zambia	English
+Zimbabwe	English
+South Sudan	English
+Benin	French
+Botswana	English
+Burkina Faso	French
+Burundi	French
+Comoros	French
+Comoros	Arabic
+Republic of the Congo	French
+Democratic Republic of the Congo	French
+Djibouti	French
+Djibouti	Arabic
+Eritrea	English
+Eritrea	Arabic
+Gabon	French
+Gambia	English
+Guinea	French
+Guinea Bissau	Portuguese
+Cameroon	English
+Cameroon	French
+Cape Verde	Portuguese
+Lesotho	English
+Liberia	English
+Libya	Arabic
+Malawi	English
+Morocco	French
+Morocco	Arabic
+Morocco	Spanish
+Mozambique	Portuguese
+Namibia	English
+Niger	French
+Nigeria	English
+Uganda	English
+Rwanda	French
+Rwanda	English
+Sao Tom  and Pr ncipe	Portuguese
+Senegal	French
+Seychelles	French
+Seychelles	English
+Sierra Leone	English
+Somalia	Arabic
+Sudan	English
+Sudan	Arabic
+Swaziland	English
+Georgia	English
+Hong Kong	English
+Hong Kong	Chinese
+Macau	Chinese
+Macau	Portuguese
+Egypt	Arabic
+Canada	French
+Canada	English
+China	Chinese
+France	French
+United Kingdom	English
+United States of America	English
