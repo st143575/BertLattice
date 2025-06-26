@@ -7,6 +7,16 @@ Prerequisites:
 - python 3.9
 - cuda 12.8
 
+Install packages:
+```bash
+pip install -r requirements.txt
+```
+
+Run:
+```bash
+bash run.sh
+```
+
 <!-- ## Base Models (temporarily hidden)
 - BERT
   - [paper](https://aclanthology.org/N19-1423/)
