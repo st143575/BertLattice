@@ -35,34 +35,6 @@ def parse_args():
     return parser.parse_args()
 
 
-# def hit_k(df, truth, k):
-#     total_pair = 0
-#     hits = 0
-#     for country in df.index:
-#         keys = df.loc[country].keys()
-#         values = df.loc[country].values
-#         topk = values.argsort()[-k:][::-1]
-#         for lang in truth[country]:
-#             if lang in set(keys[topk].tolist()):
-#                 hits += 1
-#             total_pair += 1
-#     return hits / total_pair
-
-
-# def mean_rank(df, truth):
-#     reciprocal_rank = 0
-#     count = 0
-#     for country in df.index:
-#         keys = df.loc[country].keys()
-#         values = df.loc[country].values
-#         rank = values.argsort()[::-1]
-#         for lang in truth[country]:
-#             if lang in keys.tolist():
-#                 reciprocal_rank = reciprocal_rank + (1 / (rank.tolist().index(keys.tolist().index(lang)) + 1) )
-#                 count +=1
-#     return reciprocal_rank / count
-
-
 def main():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     device_name = torch.cuda.get_device_name()
