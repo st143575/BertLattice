@@ -1,13 +1,13 @@
 # BertLattice
 
-*Xiong, Bo, and Steffen Staab. "From Tokens to Lattices: Emergent Lattice Structures in Language Models." In The Thirteenth International Conference on Learning Representations.* [[paper]](https://openreview.net/forum?id=md9qolJwLl)
-
+This is the reproduction of the following paper:  
+[*Xiong, Bo, and Steffen Staab. "From Tokens to Lattices: Emergent Lattice Structures in Language Models." In The Thirteenth International Conference on Learning Representations.*](https://openreview.net/forum?id=md9qolJwLl)
 # Setup
 Prerequisites:
 - python 3.9
 - cuda 12.8
 
-## Base Models
+<!-- ## Base Models (temporarily hidden)
 - BERT
   - [paper](https://aclanthology.org/N19-1423/)
   - [github](https://github.com/google-research/bert)
@@ -22,3 +22,4 @@ Prerequisites:
   - [paper](https://openreview.net/forum?id=sE7-XhLxHA)
   - [github](https://github.com/microsoft/DeBERTa)
   - [huggingface](https://huggingface.co/microsoft/deberta-v3-large)
+-->
