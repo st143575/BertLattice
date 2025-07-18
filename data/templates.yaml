@@ -1,0 +1,4 @@
+templates:
+  - "The {MASK} is an animal that can {ATTR}"
+  - "The {MASK} is a type of animal that has the ability to {ATTR}"
+  - "An animal known as the {MASK} has the ability to {ATTR}"
