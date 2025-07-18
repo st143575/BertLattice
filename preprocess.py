@@ -1,7 +1,6 @@
 """
 Preprocess the datasets.
 This includes creating the ground-truth formal context (i.e. the conditional probability matrix) for the datasets.
-version: 1.0
 Status: Only Animal-behavior dataset is supported.
 """
 

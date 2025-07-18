@@ -1,6 +1,5 @@
 """
 Obtain the formal contexts (i.e. the conditional probability matrix of attributes given objects)
-version: 1.0
 Status: Only Animal-behavior dataset is supported.
 """
 

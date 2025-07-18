@@ -1,3 +1,9 @@
+"""
+Evaluate and visualize the constructed formal context.
+Status: Only Animal-behavior dataset is supported.
+"""
+
+
 import argparse
 import pandas as pd
 import numpy as np

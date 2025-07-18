@@ -1,7 +1,6 @@
 """
 Perform formal concept analysis to reconstruct the concept lattice of Animal-behavior dataset from formal context.
-version: 1.0
-author: Chong Shen
+Visualize the concept lattice.
 Status: Only Animal-behavior dataset is supported.
 """
 
